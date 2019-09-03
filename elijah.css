@@ -27,7 +27,7 @@ body {
   color: white;
 }
 p {
-  width: 1400px;
+  width: initial;
   border: 20px  solid green;
   margin: 20px;
     font-family: fantasy;
