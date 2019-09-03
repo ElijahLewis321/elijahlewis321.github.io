@@ -1,7 +1,6 @@
 body {
   margin: initial;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
 }
 
 .topnav {
@@ -31,5 +30,6 @@ p {
   width: 1200px;
   border: 20px  solid green;
   margin: 20px;
-    font-family: fantasy
+    font-family: fantasy;
+      text-align: center;
 }
