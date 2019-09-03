@@ -1,6 +1,7 @@
 body {
-  margin: 5;
+  margin: initial;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 .topnav {
